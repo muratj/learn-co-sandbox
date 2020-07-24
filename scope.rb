@@ -1,4 +1,4 @@
-species = "human"
+$species = "human"
  
 def visit_universal(name)
   visit_wizarding_world(name)
